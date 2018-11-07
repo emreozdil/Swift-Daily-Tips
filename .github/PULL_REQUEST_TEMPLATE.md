@@ -8,6 +8,6 @@ Please check if your PR fulfills the following requirements:
 - [ ] Set `largest` font size
 
 - Commit requirements
-- [ ] Image has been added to `screenshots` folder
-- [ ] Code snippet has been added to `codes` folder
-- [ ] Image and code snippet have `same name`
+- [ ] Image should be added to `screenshots` folder
+- [ ] Code snippet should be added to `codes` folder
+- [ ] Image and code snippet have the `same name` for their files
