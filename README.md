@@ -14,6 +14,12 @@
 [Instagram]: https://www.instagram.com/SwiftDailyTips
 [Twitter]: https://www.twitter.com/SwiftDailyTips
 
+### [#14 CompactMap Function](/codes/CompactMapFunction.swift)
+![alt text][CompactMapFunction]
+
+### [#13 Map Function](/codes/MapFunction.swift)
+![alt text][MapFunction]
+
 ### [#12 In-out Parameter](/codes/InoutParameter.swift)
 ![alt text][InoutParameter]
 
@@ -26,7 +32,7 @@
 ### [#9 First Where Function](/codes/FirstWhere.swift)
 ![alt text][FirstWhere]
 
-### [#8 Guard Optiona lBinding](/codes/GuardOptionalBinding.swift)
+### [#8 Guard Optional Binding](/codes/GuardOptionalBinding.swift)
 ![alt text][GuardOptionalBinding]
 
 ### [#7 Filter Function](/codes/FilterFunction.swift)
@@ -62,3 +68,5 @@
 [AllSatisfyFunction]: /screenshots/AllSatisfyFunction.png
 [SimpleDefer]: /screenshots/SimpleDefer.png
 [InoutParameter]: /screenshots/InoutParameter.png
+[MapFunction]: /screenshots/MapFunction.png
+[CompactMapFunction]: /screenshots/CompactMapFunction.png
