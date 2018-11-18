@@ -2,7 +2,7 @@
 
 Please check if your PR fulfills the following requirements:
 
-- [Carbon](carbon.now.sh) Requirements
+- [Carbon](https://carbon.now.sh) Requirements
 - [ ] Select `Dracula` Theme
 - [ ] Select right `programming language`
 - [ ] Set `largest` font size
