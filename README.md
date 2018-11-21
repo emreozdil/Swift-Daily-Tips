@@ -2,17 +2,40 @@
 
 ### Daily Tips From Swift World
 
-[![alt text][TelegramIcon]][Telegram]
-[![alt text][InstagramIcon]][Instagram]
+
+
 [![alt text][TwitterIcon]][Twitter]
+[![alt text][InstagramIcon]][Instagram]
+[![alt text][TelegramIcon]][Telegram]
 
-[TelegramIcon]: /icons/telegram.png (telegram)
-[InstagramIcon]: /icons/instagram.png (instagram)
 [TwitterIcon]: /icons/twitter.png (twitter)
+[InstagramIcon]: /icons/instagram.png (instagram)
+[TelegramIcon]: /icons/telegram.png (telegram)
 
-[Telegram]: https://t.me/SwiftDailyTips
-[Instagram]: https://www.instagram.com/SwiftDailyTips
 [Twitter]: https://www.twitter.com/SwiftDailyTips
+[Instagram]: https://www.instagram.com/SwiftDailyTips
+[Telegram]: https://t.me/SwiftDailyTips
+
+### [#21 Type Methods](/codes/TypeMethods.swift)
+![alt text][TypeMethods]
+
+### [#20 Static Type Properties](/codes/StaticTypeProperties.swift)
+![alt text][StaticTypeProperties]
+
+### [#19 Computed Properties](/codes/ComputedProperties.swift)
+![alt text][ComputedProperties]
+
+### [#18 Shuffled and Shuffle functions](/codes/ShuffledAndShuffleFunctions.swift)
+![alt text][ShuffledAndShuffleFunctions]
+
+### [#17 CaseIterable Protocol](/codes/CaseIterable.swift)
+![alt text][CaseIterable]
+
+### [#16 Element of Operator ∈](/codes/ElementOfOperator.swift)
+![alt text][ElementOfOperator]
+
+### [#15 Passing Operator](/codes/PassingOperator.swift)
+![alt text][PassingOperator]
 
 ### [#14 CompactMap Function](/codes/CompactMapFunction.swift)
 ![alt text][CompactMapFunction]
@@ -70,3 +93,10 @@
 [InoutParameter]: /screenshots/InoutParameter.png
 [MapFunction]: /screenshots/MapFunction.png
 [CompactMapFunction]: /screenshots/CompactMapFunction.png
+[PassingOperator]: /screenshots/PassingOperator.png
+[ElementOfOperator]: /screenshots/ElementOfOperator.png
+[CaseIterable]: /screenshots/CaseIterable.png
+[ShuffledAndShuffleFunctions]: /screenshots/ShuffledAndShuffleFunctions.png
+[ComputedProperties]: /screenshots/ComputedProperties.png
+[StaticTypeProperties]: /screenshots/StaticTypeProperties.png
+[TypeMethods]: /screenshots/TypeMethods.png
