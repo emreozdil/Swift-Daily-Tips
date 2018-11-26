@@ -24,4 +24,4 @@ square(CorrectStruct())  // return 25
 //         return 5
 //     }
 // }
-// square(IncorrectValue())  // compile error
+// square(IncorrectStruct())  // compile error

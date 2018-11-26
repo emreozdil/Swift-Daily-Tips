@@ -16,9 +16,6 @@
 [Instagram]: https://www.instagram.com/SwiftDailyTips
 [Telegram]: https://t.me/SwiftDailyTips
 
-### [#22 Conditional Generic](/codes/ConditionalGeneric.swift)
-![alt text][ConditionalGeneric]
-
 ### [#21 Type Methods](/codes/TypeMethods.swift)
 ![alt text][TypeMethods]
 
@@ -103,4 +100,3 @@
 [ComputedProperties]: /screenshots/ComputedProperties.png
 [StaticTypeProperties]: /screenshots/StaticTypeProperties.png
 [TypeMethods]: /screenshots/TypeMethods.png
-[ConditionalGeneric]: /screenshots/ConditionalGeneric.png
