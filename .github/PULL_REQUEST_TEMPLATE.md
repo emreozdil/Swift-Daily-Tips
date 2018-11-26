@@ -3,8 +3,10 @@
 Please check if your PR fulfills the following requirements:
 
 - [Carbon](https://carbon.now.sh) Requirements
-- [ ] Same settings should be selected as the visual
-<img src="https://github.com/MobileTipsters/Swift-Daily-Tips/blob/master/icons/CarbonSettings.png" alt="CarbonSettings" width="300"/>
+| [Detail Carbon Settings](https://github.com/MobileTipsters/Swift-Daily-Tips/blob/master/icons/CarbonSettings.png)
+- [ ] Select `Dracula` Theme
+- [ ] Select right `programming language`
+- [ ] Set `largest` font size
 
 
 - Commit requirements
