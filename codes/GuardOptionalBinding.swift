@@ -1,11 +1,11 @@
 /*
   What makes the “guard” statement truly stand out,
   however, is that unwrapped optional values remain
-  available in the rest of the cold block.
+  available in the rest of the code block.
 */
 
 private func fetchContents() {
-    webService.fetchCategories({ [weak self] (response) in
+    webService.fetchCategories { [weak self] (response) in
         // Optional Binding for self
         guard let self = self else { return }
         self.createloadMoreRequest(content: response)               
