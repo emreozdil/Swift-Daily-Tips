@@ -2,7 +2,7 @@
 
 ### Daily Tips From Swift World
 
-
+[![Patreon](https://img.shields.io/badge/patreon-donate-green.svg)](https://patreon.com/SwiftDailyTips) [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://buymeacoffee.com/SwiftDailyTips)
 
 [![alt text][TwitterIcon]][Twitter]
 [![alt text][InstagramIcon]][Instagram]
@@ -15,6 +15,27 @@
 [Twitter]: https://www.twitter.com/SwiftDailyTips
 [Instagram]: https://www.instagram.com/SwiftDailyTips
 [Telegram]: https://t.me/SwiftDailyTips
+
+### [#28 Ternary Operator](/codes/TernaryOperator.swift)
+![alt text][TernaryOperator]
+
+### [#27 Public Private(set)](/codes/PublicPrivateSet.swift)
+![alt text][PublicPrivateSet]
+
+### [#26 Property Observers](/codes/PropertyObservers.swift)
+![alt text][PropertyObservers]
+
+### [#25 Return Multiple Values](/codes/ReturnMultipleValues.swift)
+![alt text][ReturnMultipleValues]
+
+### [#24 Discardable Result](/codes/DiscardableResult.swift)
+![alt text][DiscardableResult]
+
+### [#23 Lazy Property](/codes/LazyProperty.swift)
+![alt text][LazyProperty]
+
+### [#22 Default Parameter](/codes/DefaultParameter.swift)
+![alt text][DefaultParameter]
 
 ### [#21 Type Methods](/codes/TypeMethods.swift)
 ![alt text][TypeMethods]
@@ -100,3 +121,10 @@
 [ComputedProperties]: /screenshots/ComputedProperties.png
 [StaticTypeProperties]: /screenshots/StaticTypeProperties.png
 [TypeMethods]: /screenshots/TypeMethods.png
+[DefaultParameter]: /screenshots/DefaultParameter.png
+[LazyProperty]: /screenshots/LazyProperty.png
+[DiscardableResult]: /screenshots/DiscardableResult.png
+[ReturnMultipleValues]: /screenshots/ReturnMultipleValues.png
+[PropertyObservers]: /screenshots/PropertyObservers.png
+[PublicPrivateSet]: /screenshots/PublicPrivateSet.png
+[TernaryOperator]: /screenshots/TernaryOperator.png
