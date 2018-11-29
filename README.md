@@ -1,8 +1,7 @@
 # Swift-Daily-Tips
 
 ### Daily Tips From Swift World
-
-[![Patreon](https://img.shields.io/badge/patreon-donate-green.svg)](https://patreon.com/SwiftDailyTips) [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://buymeacoffee.com/SwiftDailyTips)
+[![Patreon](https://img.shields.io/badge/patreon-donate-green.svg)](https://patreon.com/SwiftDailyTips) [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://buymeacoffee.com/SwiftDailyTips) [![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/stargazers) [![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/issues) [![GitHub license](https://img.shields.io/github/license/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips)
 
 [![alt text][TwitterIcon]][Twitter]
 [![alt text][InstagramIcon]][Instagram]
