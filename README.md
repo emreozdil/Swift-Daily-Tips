@@ -2,7 +2,16 @@
 
 ### Daily Tips From Swift World
 
-[![Patreon](https://img.shields.io/badge/patreon-donate-green.svg)](https://patreon.com/SwiftDailyTips) [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://buymeacoffee.com/SwiftDailyTips)
+
+[![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/stargazers)
+
+
+[![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/issues)
+
+
+[![GitHub license](https://img.shields.io/github/license/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips)
+
+
 
 [![alt text][TwitterIcon]][Twitter]
 [![alt text][InstagramIcon]][Instagram]
@@ -16,28 +25,6 @@
 [Instagram]: https://www.instagram.com/SwiftDailyTips
 [Telegram]: https://t.me/SwiftDailyTips
 
-### [#28 Ternary Operator](/codes/TypeMethods.swift)
-![alt text][TypeMethods]
-
-### [#27 Static Type Properties](/codes/StaticTypeProperties.swift)
-![alt text][StaticTypeProperties]
-
-### [#26 Computed Properties](/codes/ComputedProperties.swift)
-![alt text][ComputedProperties]
-
-### [#25 Shuffled and Shuffle functions](/codes/ShuffledAndShuffleFunctions.swift)
-![alt text][ShuffledAndShuffleFunctions]
-
-### [#24 CaseIterable Protocol](/codes/CaseIterable.swift)
-![alt text][CaseIterable]
-
-### [#23 Element of Operator ∈](/codes/ElementOfOperator.swift)
-![alt text][ElementOfOperator]
-
-### [#22 Passing Operator](/codes/PassingOperator.swift)
-![alt text][PassingOperator]
-
----
 ### [#21 Type Methods](/codes/TypeMethods.swift)
 ![alt text][TypeMethods]
 
