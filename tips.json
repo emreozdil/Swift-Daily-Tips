@@ -1,0 +1,299 @@
+{
+    "baseUrl": "https://github.com/MobileTipsters/Swift-Daily-Tips/blob/master",
+    "tips": [
+        {
+            "id": 1,
+            "date": "1.11.2018",
+            "title": "Add Subview Extension",
+            "codeUrl": "/codes/AddSubviewExtension.swift",
+            "imageUrl": "/screenshots/AddSubviewExtension.png"
+        },
+        {
+            "id": 2,
+            "date": "2.11.2018",
+            "title": "Static Factory Methods for UILabel",
+            "codeUrl": "/codes/StaticFactoryMethodsForUILabel.swift",
+            "imageUrl": "/screenshots/StaticFactoryMethodsForUILabel.png"
+        },
+        {
+            "id": 3,
+            "date": "3.11.2018",
+            "title": "UIColor Convenience Init",
+            "codeUrl": "/codes/UIColorConvenienceInit.swift",
+            "imageUrl": "/screenshots/UIColorConvenienceInit.png"
+        },
+        {
+            "id": 4,
+            "date": "4.11.2018",
+            "title": "Member Short Hand",
+            "codeUrl": "/codes/MemberShortHand.swift",
+            "imageUrl": "/screenshots/MemberShortHand.png"
+        },
+        {
+            "id": 5,
+            "date": "5.11.2018",
+            "title": "Dismiss Keyboard Interactively",
+            "codeUrl": "/codes/DismissKeyboardInteractively.swift",
+            "imageUrl": "/screenshots/DismissKeyboardInteractively.png"
+        },
+        {
+            "id": 6,
+            "date": "6.11.2018",
+            "title": "One Time Code #iOS12",
+            "codeUrl": "/codes/OneTimeCode.swift",
+            "imageUrl": "/screenshots/OneTimeCode.png"
+        },
+        {
+            "id": 7,
+            "date": "7.11.2018",
+            "title": "Filter Function",
+            "codeUrl": "/codes/FilterFunction.swift",
+            "imageUrl": "/screenshots/FilterFunction.png"
+        },
+        {
+            "id": 8,
+            "date": "8.11.2018",
+            "title": "Guard Optional Binding",
+            "codeUrl": "/codes/GuardOptionalBinding.swift",
+            "imageUrl": "/screenshots/GuardOptionalBinding.png"
+        },
+        {
+            "id": 9,
+            "date": "9.11.2018",
+            "title": "First Where Function",
+            "codeUrl": "/codes/FirstWhereFunction.swift",
+            "imageUrl": "/screenshots/FirstWhereFunction.png"
+        },
+        {
+            "id": 10,
+            "date": "10.11.2018",
+            "title": "AllSatisfy Function",
+            "codeUrl": "/codes/AllSatisfyFunction.swift",
+            "imageUrl": "/screenshots/AllSatisfyFunction.png"
+        },
+        {
+            "id": 11,
+            "date": "11.11.2018",
+            "title": "Simple Defer Function",
+            "codeUrl": "/codes/SimpleDeferFunction.swift",
+            "imageUrl": "/screenshots/SimpleDeferFunction.png"
+        },
+        {
+            "id": 12,
+            "date": "12.11.2018",
+            "title": "In-out Parameter",
+            "codeUrl": "/codes/InoutParameter.swift",
+            "imageUrl": "/screenshots/InoutParameter.png"
+        },
+        {
+            "id": 13,
+            "date": "13.11.2018",
+            "title": "Map Function",
+            "codeUrl": "/codes/MapFunction.swift",
+            "imageUrl": "/screenshots/MapFunction.png"
+        },
+        {
+            "id": 14,
+            "date": "14.11.2018",
+            "title": "CompactMap Function",
+            "codeUrl": "/codes/CompactMapFunction.swift",
+            "imageUrl": "/screenshots/CompactMapFunction.png"
+        },
+        {
+            "id": 15,
+            "date": "15.11.2018",
+            "title": "Passing Operator",
+            "codeUrl": "/codes/PassingOperator.swift",
+            "imageUrl": "/screenshots/PassingOperator.png"
+        },
+        {
+            "id": 16,
+            "date": "16.11.2018",
+            "title": "Element of Operator ∈",
+            "codeUrl": "/codes/ElementOfOperator.swift",
+            "imageUrl": "/screenshots/ElementOfOperator.png"
+        },
+        {
+            "id": 17,
+            "date": "17.11.2018",
+            "title": "CaseIterable Protocol",
+            "codeUrl": "/codes/CaseIterableProtocol.swift",
+            "imageUrl": "/screenshots/CaseIterableProtocol.png"
+        },
+        {
+            "id": 18,
+            "date": "18.11.2018",
+            "title": "Shuffled and Shuffle Functions",
+            "codeUrl": "/codes/ShuffledAndShuffleFunctions.swift",
+            "imageUrl": "/screenshots/ShuffledAndShuffleFunctions.png"
+        },
+        {
+            "id": 19,
+            "date": "19.11.2018",
+            "title": "Computed Properties",
+            "codeUrl": "/codes/ComputedProperties.swift",
+            "imageUrl": "/screenshots/ComputedProperties.png"
+        },
+        {
+            "id": 20,
+            "date": "20.11.2018",
+            "title": "Static Type Properties",
+            "codeUrl": "/codes/StaticTypeProperties.swift",
+            "imageUrl": "/screenshots/StaticTypeProperties.png"
+        },
+        {
+            "id": 21,
+            "date": "21.11.2018",
+            "title": "Type Methods",
+            "codeUrl": "/codes/TypeMethods.swift",
+            "imageUrl": "/screenshots/TypeMethods.png"
+        },
+        {
+            "id": 22,
+            "date": "22.11.2018",
+            "title": "Default Parameter",
+            "codeUrl": "/codes/DefaultParameter.swift",
+            "imageUrl": "/screenshots/DefaultParameter.png"
+        },
+        {
+            "id": 23,
+            "date": "23.11.2018",
+            "title": "Lazy Property",
+            "codeUrl": "/codes/LazyProperty.swift",
+            "imageUrl": "/screenshots/LazyProperty.png"
+        },
+        {
+            "id": 24,
+            "date": "24.11.2018",
+            "title": "Discardable Result",
+            "codeUrl": "/codes/DiscardableResult.swift",
+            "imageUrl": "/screenshots/DiscardableResult.png"
+        },
+        {
+            "id": 25,
+            "date": "25.11.2018",
+            "title": "Return Multiple Values",
+            "codeUrl": "/codes/ReturnMultipleValues.swift",
+            "imageUrl": "/screenshots/ReturnMultipleValues.png"
+        },
+        {
+            "id": 26,
+            "date": "26.11.2018",
+            "title": "Property Observers",
+            "codeUrl": "/codes/PropertyObservers.swift",
+            "imageUrl": "/screenshots/PropertyObservers.png"
+        },
+        {
+            "id": 27,
+            "date": "27.11.2018",
+            "title": "Public Private(set)",
+            "codeUrl": "/codes/PublicPrivateSet.swift",
+            "imageUrl": "/screenshots/PublicPrivateSet.png"
+        },
+        {
+            "id": 28,
+            "date": "28.11.2018",
+            "title": "Ternary Operator",
+            "codeUrl": "/codes/TernaryOperator.swift",
+            "imageUrl": "/screenshots/TernaryOperator.png"
+        },
+        {
+            "id": 29,
+            "date": "29.11.2018",
+            "title": "Nil-Coalescing Operator",
+            "codeUrl": "/codes/NilCoalescingOperator.swift",
+            "imageUrl": "/screenshots/NilCoalescingOperator.png"
+        },
+        {
+            "id": 30,
+            "date": "30.11.2018",
+            "title": "Join & Split Function",
+            "codeUrl": "/codes/Join&SplitFunction.swift",
+            "imageUrl": "/screenshots/Join&SplitFunction.png"
+        },
+        {
+            "id": 31,
+            "date": "1.12.2018",
+            "title": "Generic Functions",
+            "codeUrl": "/codes/GenericFunctions.swift",
+            "imageUrl": "/screenshots/GenericFunctions.png"
+        },
+        {
+            "id": 32,
+            "date": "2.12.2018",
+            "title": "Return Multiple Values",
+            "codeUrl": "/codes/ReturnMultipleValues.swift",
+            "imageUrl": "/screenshots/ReturnMultipleValues.png"
+        },
+        {
+            "id": 33,
+            "date": "3.12.2018",
+            "title": "Swap Values",
+            "codeUrl": "/codes/SwapValues.swift",
+            "imageUrl": "/screenshots/SwapValues.png"
+        },
+        {
+            "id": 34,
+            "date": "4.12.2018",
+            "title": "Builder Pattern",
+            "codeUrl": "/codes/BuilderPattern.swift",
+            "imageUrl": "/screenshots/BuilderPattern.png"
+        },
+        {
+            "id": 35,
+            "date": "5.12.2018",
+            "title": "Multiline String Literals",
+            "codeUrl": "/codes/MultilineStringLiterals.swift",
+            "imageUrl": "/screenshots/MultilineStringLiterals.png"
+        },
+        {
+            "id": 36,
+            "date": "6.12.2018",
+            "title": "Repeat While",
+            "codeUrl": "/codes/RepeatWhile.swift",
+            "imageUrl": "/screenshots/RepeatWhile.png"
+        },
+        {
+            "id": 37,
+            "date": "7.12.2018",
+            "title": "Function Argument Labels",
+            "codeUrl": "/codes/FunctionArgumentLabels.swift",
+            "imageUrl": "/screenshots/FunctionArgumentLabels.png"
+        },
+        {
+            "id": 38,
+            "date": "8.12.2018",
+            "title": "Omitting Argument Labels",
+            "codeUrl": "/codes/OmittingArgumentLabels.swift",
+            "imageUrl": "/screenshots/OmittingArgumentLabels.png"
+        },
+        {
+            "id": 39,
+            "date": "9.12.2018",
+            "title": "Variadic Parameters",
+            "codeUrl": "/codes/VariadicParameters.swift",
+            "imageUrl": "/screenshots/VariadicParameters.png"
+        },
+        {
+            "id": 40,
+            "date": "10.12.2018",
+            "title": "Closed Range Operator",
+            "codeUrl": "/codes/ClosedRangeOperator.swift",
+            "imageUrl": "/screenshots/ClosedRangeOperator.png"
+        },
+        {
+            "id": 41,
+            "date": "11.12.2018",
+            "title": "Half-Open Range Operator",
+            "codeUrl": "/codes/HalfOpenRangeOperator.swift",
+            "imageUrl": "/screenshots/HalfOpenRangeOperator.png"
+        },
+        {
+            "id": 42,
+            "date": "12.12.2018",
+            "title": "One-Sided Range",
+            "codeUrl": "/codes/OneSidedRange.swift",
+            "imageUrl": "/screenshots/OneSidedRange.png"
+        }
+    ]
+}
