@@ -1,6 +1,4 @@
-# Swift-Daily-Tips
-
-## Daily Tips From Swift World
+![Swift Daily Tips](/icons/sdt-logo.png)
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-green.svg)](https://patreon.com/SwiftDailyTips) [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://buymeacoffee.com/SwiftDailyTips) [![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/stargazers) [![GitHub forks](https://img.shields.io/github/forks/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/stargazers) [![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/issues) [![GitHub license](https://img.shields.io/github/license/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips)
 
@@ -17,6 +15,20 @@
 [Telegram]: https://t.me/SwiftDailyTips
 
 ## [Timeline](/TIMELINE.md) of Tips
+
+#### [#49 User Initiated](/codes/UserInitiatedQoS.swift)
+
+#### [#48 User Interactive QoS](/codes/UserInteractiveQoS.swift)
+
+#### [#47 Quality of Service Classes](/codes/QualityOfServiceClasses.swift)
+
+#### [#46 MutatingFunction](/codes/MutatingFunction.swift)
+
+#### [#45 Dynamic Member Lookup](/codes/DynamicMemberLookup.swift)
+
+#### [#44 Bitwise Shift Operators](/codes/BitwiseShiftOperators.swift)
+
+#### [#43 Unary Minus Operator](/codes/UnaryMinusOperator.swift)
 
 #### [#42 One-Sided Range](/codes/OneSidedRange.swift)
 
