@@ -16,7 +16,21 @@
 
 ## [Timeline](/TIMELINE.md) of Tips
 
-#### [#49 User Initiated](/codes/UserInitiatedQoS.swift)
+#### [#56 Factory Pattern](/codes/FactoryPattern.swift)
+
+#### [#55 Adapter Pattern](/codes/AdapterPattern.swift)
+
+#### [#54 Singleton Pattern](/codes/SingletonPattern.swift)
+
+#### [#53 Dispatch Group](/codes/DispatchGroup.swift)
+
+#### [#52 Background QoS](/codes/BackgroundQoS.swift)
+
+#### [#51 Utility QoS](/codes/UtilityQoS.swift)
+
+#### [#50 Default QoS](/codes/DefaultQoS.swift)
+
+#### [#49 User Initiated QoS](/codes/UserInitiatedQoS.swift)
 
 #### [#48 User Interactive QoS](/codes/UserInteractiveQoS.swift)
 
