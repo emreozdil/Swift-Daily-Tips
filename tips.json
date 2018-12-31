@@ -61,8 +61,8 @@
             "id": 9,
             "date": "9.11.2018",
             "title": "First Where Function",
-            "codeUrl": "/codes/FirstWhereFunction.swift",
-            "imageUrl": "/screenshots/FirstWhereFunction.png"
+            "codeUrl": "/codes/FirstWhere.swift",
+            "imageUrl": "/screenshots/FirstWhere.png"
         },
         {
             "id": 10,
@@ -75,8 +75,8 @@
             "id": 11,
             "date": "11.11.2018",
             "title": "Simple Defer Function",
-            "codeUrl": "/codes/SimpleDeferFunction.swift",
-            "imageUrl": "/screenshots/SimpleDeferFunction.png"
+            "codeUrl": "/codes/SimpleDefer.swift",
+            "imageUrl": "/screenshots/SimpleDefer.png"
         },
         {
             "id": 12,
@@ -117,8 +117,8 @@
             "id": 17,
             "date": "17.11.2018",
             "title": "CaseIterable Protocol",
-            "codeUrl": "/codes/CaseIterableProtocol.swift",
-            "imageUrl": "/screenshots/CaseIterableProtocol.png"
+            "codeUrl": "/codes/CaseIterable.swift",
+            "imageUrl": "/screenshots/CaseIterable.png"
         },
         {
             "id": 18,
