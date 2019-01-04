@@ -12,10 +12,10 @@ protocol Human {
     func sleep()
 }
 
-class Soldier: Human{ 
+class Soldier: Human { 
     //...
 }
-class Civilian: Human{ 
+class Civilian: Human { 
     //...
 }
 
@@ -27,12 +27,12 @@ enum HumanType {
 class HumanFactory {
     static let shared = HumanFactory()
 
-    func getHuman(type : HumanType, name : String) -> Human {
+    func getHuman(type: HumanType, name: String) -> Human {
         switch type {
-            case .Soldier:
-                return Soldier(SoldierName: humanName)
-            case .Civilian:
-                return Civilian(CivilianName: humanName)
+            case .soldier:
+                return Soldier(soldierName: name)
+            case .civilian:
+                return Civilian(civilianName: name)
         }
     }
 }
