@@ -1,6 +1,8 @@
-![Swift Daily Tips](/icons/sdt-logo.png)
+<p align="center">
+  <img height="160" src="/icons/sdt-logo.png" />
+</p>
 
-[![Patreon](https://img.shields.io/badge/patreon-donate-green.svg)](https://patreon.com/SwiftDailyTips) [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://buymeacoffee.com/SwiftDailyTips) [![GitHub stars](https://img.shields.io/github/stars/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/stargazers) [![GitHub forks](https://img.shields.io/github/forks/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/stargazers) [![GitHub issues](https://img.shields.io/github/issues/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips/issues) [![GitHub license](https://img.shields.io/github/license/MobileTipsters/Swift-Daily-Tips.svg)](https://github.com/MobileTipsters/Swift-Daily-Tips)
+[![GitHub stars](https://img.shields.io/github/stars/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips/stargazers) [![GitHub forks](https://img.shields.io/github/forks/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips/stargazers) [![GitHub issues](https://img.shields.io/github/issues/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips/issues) [![GitHub license](https://img.shields.io/github/license/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips)
 
 [![alt text][TwitterIcon]][Twitter]
 [![alt text][InstagramIcon]][Instagram]
