@@ -22,7 +22,7 @@
 
 #### [#98 Importance of Weak Reference](/codes/ImportanceOfWeakReference.swift)
 
-#### [#97 Custom Operator](/codes/Custom Operator.swift)
+#### [#97 Custom Operator](/codes/CustomOperator.swift)
 
 #### [#96 Operator Overloading](/codes/OperatorOverloading.swift)
 
@@ -34,7 +34,7 @@
 
 #### [#92 Int and String Description of Bool](/codes/IntAndStringDescriptionOfBool.swift)
 
-#### [#91 Sum Function for Numeric Collection](/codes/SumFunctionForNumericCollection.swift)
+#### [#91 Sum Function for Numeric Collection](/codes/SumFunction.swift)
 
 #### [#90 Labeled Statements](/codes/LabeledStatements.swift)
 
@@ -52,7 +52,7 @@
 
 #### [#83 Word Count Function](/codes/WordCountFunction.swift)
 
-#### [#82 Show Alert Extension](/codes/ShowAlertExtension.swift)
+#### [#82 Show Alert Extension](/codes/ShowAlertFunction.swift)
 
 #### [#81 Get an Element in Safety](/codes/GetAnElementInSafety.swift)
 
@@ -66,9 +66,9 @@
 
 #### [#76 Remove element by the instances in an array](/codes/RemoveElementInArray.swift)
 
-#### [#75 Register - Dequeue XIB UICollectionView](/codes/RegisterDequeueXIBUICollectionViewCell.swift)
+#### [#75 Register - Dequeue XIB UICollectionView](/codes/RegisterDequeueXIBCollectionView.swift)
 
-#### [#74 Register - Dequeue XIB UITableViewCell](/codes/RegisterDequeueXIBUITableViewCell.swift)
+#### [#74 Register - Dequeue XIB UITableViewCell](/codes/RegisterDequeueXIBTableView.swift)
 
 #### [#73 Class Name Extension](/codes/ClassNameExtension.swift)
 
@@ -88,7 +88,7 @@
 
 #### [#65 isMultiple(of:) Swift 5.0](/codes/IsMultipleSwift5.swift)
 
-#### [#64 Extension for Nested Types](/codes/ExtensionforNestedTypes.swift)
+#### [#64 Extension for Nested Types](/codes/ExtensionForNestedTypes.swift)
 
 #### [#63 Code Separation](/codes/CodeSeparation.swift)
 
