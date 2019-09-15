@@ -16,6 +16,94 @@
 
 ## [Timeline](/TIMELINE.md) of Tips
 
+#### [#100 Switch Root VC Extension](/codes/SwitchRootVCExtension.swift)
+
+#### [#99 C Style For Loop Using Stride](/codes/CStyleForLoopUsingStride.swift)
+
+#### [#98 Importance of Weak Reference](/codes/ImportanceOfWeakReference.swift)
+
+#### [#97 Custom Operator](/codes/Custom Operator.swift)
+
+#### [#96 Operator Overloading](/codes/OperatorOverloading.swift)
+
+#### [#95 Array Prepend Extension Function](/codes/ArrayPrependExtensionFunction.swift)
+
+#### [#94 SnapKit Usage](/codes/SnapKitUsage.swift)
+
+#### [#93 Distance of two CGPoint](/codes/DistanceOfTwoCGPoint.swift)
+
+#### [#92 Int and String Description of Bool](/codes/IntAndStringDescriptionOfBool.swift)
+
+#### [#91 Sum Function for Numeric Collection](/codes/SumFunctionForNumericCollection.swift)
+
+#### [#90 Labeled Statements](/codes/LabeledStatements.swift)
+
+#### [#89 Required Height for Label](/codes/RequiredHeightForLabel.swift)
+
+#### [#88 Auto Layout Extension](/codes/AutoLayoutExtension.swift)
+
+#### [#87 Int to UInt, Double, Float](/codes/IntToUIntDoubleFloat.swift)
+
+#### [#86 URL Query Parameters](/codes/URLQueryParameters.swift)
+
+#### [#85 Adding a prefix to a string](/codes/AddingPrefixToString.swift)
+
+#### [#84 Decoding JSON from Bundle](/codes/DecodingJSONFromBundle.swift)
+
+#### [#83 Word Count Function](/codes/WordCountFunction.swift)
+
+#### [#82 Show Alert Extension](/codes/ShowAlertExtension.swift)
+
+#### [#81 Get an Element in Safety](/codes/GetAnElementInSafety.swift)
+
+#### [#80 Bundle Extension](/codes/BundleExtension.swift)
+
+#### [#79 Search Bar Text Field](/codes/SearchBarTextField.swift)
+
+#### [#78 distinct(by: ) function](/codes/DistinctBy.swift)
+
+#### [#77 Remove the same value from the array](/codes/RemoveTheSameValueFromTheArray.swift)
+
+#### [#76 Remove element by the instances in an array](/codes/RemoveElementInArray.swift)
+
+#### [#75 Register - Dequeue XIB UICollectionView](/codes/RegisterDequeueXIBUICollectionViewCell.swift)
+
+#### [#74 Register - Dequeue XIB UITableViewCell](/codes/RegisterDequeueXIBUITableViewCell.swift)
+
+#### [#73 Class Name Extension](/codes/ClassNameExtension.swift)
+
+#### [#72 Handling Future Enum Cases Swift 5.0](/codes/HandlingFutureEnumCasesSwift5.swift)
+
+#### [#71 Conform Never to Equatable and Hashable Swift 5.0](/codes/ConformNeverToEquatableAndHashableSwift5.swift)
+
+#### [#70 Support 'less than' operator in compilation conditions Swift 5.0](/codes/LessThanOperatorSwift5.swift)
+
+#### [#69 Character Properties Swift 5.0](/codes/CharacterPropertiesSwift5.swift)
+
+#### [#68 Flatten nested optionals resulting from 'try?' Swift 5.0](/codes/FlattenNestedOptionalsSwift5.swift)
+
+#### [#67 compactMapValues Swift 5.0](/codes/CompactMapValuesSwift5.swift)
+
+#### [#66 count(where:) Swift 5.0](/codes/CountWhereSwift5.swift)
+
+#### [#65 isMultiple(of:) Swift 5.0](/codes/IsMultipleSwift5.swift)
+
+#### [#64 Extension for Nested Types](/codes/ExtensionforNestedTypes.swift)
+
+#### [#63 Code Separation](/codes/CodeSeparation.swift)
+
+#### [#62 Preserving Initializers](/codes/PreservingInitializers.swift)
+
+#### [#61 Protocol Conformance](/codes/ProtocolConformance.swift)
+
+#### [#60 Sketch Shadow](/codes/SketchShadow.swift)
+
+#### [#59 Facade Pattern](/codes/FacadePattern.swift)
+
+#### [#58 Observer Pattern](/codes/ObserverPattern.swift)
+
+#### [#57 Strategy Pattern](/codes/StrategyPattern.swift)
+
 #### [#56 Factory Pattern](/codes/FactoryPattern.swift)
 
 #### [#55 Adapter Pattern](/codes/AdapterPattern.swift)
