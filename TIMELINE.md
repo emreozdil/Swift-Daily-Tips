@@ -42,8 +42,8 @@
 #### [#87 Int to UInt, Double, Float](/codes/IntToUIntDoubleFloat.swift)
 ![alt text][IntToUIntDoubleFloat]
 
-#### [#86 URL Query Parameters](/codes/URLQueryParameters.swift)
-![alt text][URLQueryParameters]
+#### [#86 URL Query Parameters](/codes/UrlQueryParameters.swift)
+![alt text][UrlQueryParameters]
 
 #### [#85 Adding a prefix to a string](/codes/AddingPrefixToString.swift)
 ![alt text][AddingPrefixToString]
@@ -385,7 +385,7 @@
 [WordCountFunction]: /screenshots/WordCountFunction.png
 [DecodingJSONFromBundle]: /screenshots/DecodingJSONFromBundle.png
 [AddingPrefixToString]: /screenshots/AddingPrefixToString.png
-[URLQueryParameters]: /screenshots/URLQueryParameters.png
+[UrlQueryParameters]: /screenshots/UrlQueryParameters.png
 [IntToUIntDoubleFloat]: /screenshots/IntToUIntDoubleFloat.png
 [AutoLayoutExtension]: /screenshots/AutoLayoutExtension.png
 [RequiredHeightForLabel]: /screenshots/RequiredHeightForLabel.png
