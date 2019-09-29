@@ -46,7 +46,7 @@
 
 #### [#87 Int to UInt, Double, Float](/codes/IntToUIntDoubleFloat.swift)
 
-#### [#86 URL Query Parameters](/codes/URLQueryParameters.swift)
+#### [#86 URL Query Parameters](/codes/UrlQueryParameters.swift)
 
 #### [#85 Adding a prefix to a string](/codes/AddingPrefixToString.swift)
 
