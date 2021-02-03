@@ -5,15 +5,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips/stargazers) [![GitHub forks](https://img.shields.io/github/forks/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips/stargazers) [![GitHub issues](https://img.shields.io/github/issues/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips/issues) [![GitHub license](https://img.shields.io/github/license/emreozdil/Swift-Daily-Tips.svg)](https://github.com/emreozdil/Swift-Daily-Tips)
 
 [![alt text][TwitterIcon]][Twitter]
-[![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
 [TwitterIcon]: /icons/twitter.png (twitter)
-[InstagramIcon]: /icons/instagram.png (instagram)
 [TelegramIcon]: /icons/telegram.png (telegram)
 
 [Twitter]: https://www.twitter.com/SwiftDailyTips
-[Instagram]: https://www.instagram.com/SwiftDailyTips
 [Telegram]: https://t.me/SwiftDailyTips
 
 ## [Timeline](/TIMELINE.md) of Tips
